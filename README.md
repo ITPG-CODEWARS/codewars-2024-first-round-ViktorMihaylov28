@@ -39,22 +39,22 @@ Railway Technology е уебсайт, посветен на 10-те най-бъ�
 
 ## Снимки
 
-![alt text](image.png) -> Начална страница_1
+![alt text](images/readme-1.png) -> Начална страница_1
 
-![alt text](image-1.png) -> Начална страница 50%_2
+![alt text](images/readme-2.png) -> Начална страница 50%_2
 
-![alt text](image-2.png) -> Начална страница_3
+![alt text](images/readme-3.png) -> Начална страница_3
 
-![alt text](image-3.png) -> Характеристики_1
+![alt text](images/readme-4.png) -> Характеристики_1
 
-![alt text](image-4.png) -> Характеристики 50%_2
+![alt text](images/readme-5.png) -> Характеристики 50%_2
 
-![alt text](image-5.png) -> Характеристики 50%_3
+![alt text](images/readme-6.png) -> Характеристики 50%_3
 
-![alt text](image-6.png) -> Характеристики 50%_4
+![alt text](images/readme-7.png) -> Характеристики 50%_4
 
-![alt text](image-7.png) -> За нас 50%_1
+![alt text](images/readme-8.png) -> За нас 50%_1
 
-![alt text](image-8.png) -> За нас 50%_2
+![alt text](images/readme-9.png) -> За нас 50%_2
 
-![alt text](image-9.png) -> Контакти 50%_1
+![alt text](images/readme-10.png) -> Контакти 50%_1
